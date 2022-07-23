@@ -6,7 +6,7 @@
 @ version: python 3
 '''
 import logging
-from tools.project_path import ProjectPath
+from project_path import ProjectPath
 import time
 
 class MyLogger():
