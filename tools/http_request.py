@@ -31,4 +31,6 @@ if __name__ == "__main__":
     }
     response = HttpRequest().http_request("GET", url, headers, payload)
     # MyLogger().info(response.text)
-    MyLogger().info("响应头：{0}\n响应内容：{1}".format(response.headers,response.content))
+    MyLogger().info("响应头：{0}\n".format(response.headers))
+    MyLogger().info("cookies：{0}\n".format(response.cookies))
+    MyLogger().info("响应结果：{0}\n".format(response))
