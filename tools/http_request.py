@@ -6,7 +6,7 @@
 @ version: python 3
 '''
 import requests, json
-from tools.my_log import MyLogger
+from my_log import MyLogger
 
 class HttpRequest:
     def http_request(self, method, req_url, header={}, data={}, cookie=None):
