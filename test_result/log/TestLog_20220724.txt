@@ -36,3 +36,29 @@
 
 2022-07-24 01:40:09,889 - INFO - my_log.py - MyLogger - 第35行 - 日志信息：响应结果：<Response [200]>
 
+2022-07-24 13:09:13,706 - INFO - my_log.py - MyLogger - 第35行 - 日志信息：响应头：{'Cache-Control': 'private, no-cache, no-store, proxy-revalidate, no-transform', 'Connection': 'keep-alive', 'Content-Type': 'text/html', 'Date': 'Sun, 24 Jul 2022 05:09:14 GMT', 'Last-Modified': 'Mon, 23 Jan 2017 13:28:24 GMT', 'Pragma': 'no-cache', 'Server': 'bfe/1.0.8.18', 'Set-Cookie': 'BDORZ=27315; max-age=86400; domain=.baidu.com; path=/', 'Content-Length': '2381'}
+
+2022-07-24 13:09:13,707 - INFO - my_log.py - MyLogger - 第35行 - 日志信息：cookies：<RequestsCookieJar[<Cookie BDORZ=27315 for .baidu.com/>]>
+
+2022-07-24 13:09:13,708 - INFO - my_log.py - MyLogger - 第35行 - 日志信息：响应结果：200
+
+2022-07-24 13:09:41,846 - INFO - my_log.py - MyLogger - 第35行 - 日志信息：响应头：{'Cache-Control': 'private, no-cache, no-store, proxy-revalidate, no-transform', 'Connection': 'keep-alive', 'Content-Type': 'text/html', 'Date': 'Sun, 24 Jul 2022 05:09:42 GMT', 'Last-Modified': 'Mon, 23 Jan 2017 13:28:24 GMT', 'Pragma': 'no-cache', 'Server': 'bfe/1.0.8.18', 'Set-Cookie': 'BDORZ=27315; max-age=86400; domain=.baidu.com; path=/', 'Content-Length': '2381'}
+
+2022-07-24 13:09:41,847 - INFO - my_log.py - MyLogger - 第35行 - 日志信息：cookies：<RequestsCookieJar[<Cookie BDORZ=27315 for .baidu.com/>]>
+
+2022-07-24 13:09:41,847 - INFO - my_log.py - MyLogger - 第35行 - 日志信息：响应Code：200
+
+2022-07-24 13:09:59,029 - INFO - my_log.py - MyLogger - 第35行 - 日志信息：响应头：{'Cache-Control': 'private, no-cache, no-store, proxy-revalidate, no-transform', 'Connection': 'keep-alive', 'Content-Type': 'text/html', 'Date': 'Sun, 24 Jul 2022 05:09:59 GMT', 'Last-Modified': 'Mon, 23 Jan 2017 13:28:24 GMT', 'Pragma': 'no-cache', 'Server': 'bfe/1.0.8.18', 'Set-Cookie': 'BDORZ=27315; max-age=86400; domain=.baidu.com; path=/', 'Content-Length': '2381'}
+
+2022-07-24 13:09:59,030 - INFO - my_log.py - MyLogger - 第35行 - 日志信息：cookies：<RequestsCookieJar[<Cookie BDORZ=27315 for .baidu.com/>]>
+
+2022-07-24 13:09:59,030 - INFO - my_log.py - MyLogger - 第35行 - 日志信息：响应Code：200
+
+2022-07-24 13:10:46,173 - INFO - my_log.py - MyLogger - 第35行 - 日志信息：响应头：{'Cache-Control': 'private, no-cache, no-store, proxy-revalidate, no-transform', 'Connection': 'keep-alive', 'Content-Type': 'text/html', 'Date': 'Sun, 24 Jul 2022 05:10:46 GMT', 'Last-Modified': 'Mon, 23 Jan 2017 13:28:24 GMT', 'Pragma': 'no-cache', 'Server': 'bfe/1.0.8.18', 'Set-Cookie': 'BDORZ=27315; max-age=86400; domain=.baidu.com; path=/', 'Content-Length': '2381'}
+
+2022-07-24 13:10:46,176 - INFO - my_log.py - MyLogger - 第35行 - 日志信息：cookies：<RequestsCookieJar[<Cookie BDORZ=27315 for .baidu.com/>]>
+
+2022-07-24 13:10:46,179 - INFO - my_log.py - MyLogger - 第35行 - 日志信息：响应Code：200
+
+2022-07-24 13:10:46,181 - INFO - my_log.py - MyLogger - 第35行 - 日志信息：【BDORZ】:27315
+

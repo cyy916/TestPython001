@@ -33,4 +33,5 @@ if __name__ == "__main__":
     # MyLogger().info(response.text)
     MyLogger().info("响应头：{0}\n".format(response.headers))
     MyLogger().info("cookies：{0}\n".format(response.cookies))
-    MyLogger().info("响应结果：{0}\n".format(response))
+    MyLogger().info("响应Code：{0}\n".format(response.status_code))
+    MyLogger().info("【BDORZ】:{0}\n".format(response.cookies["BDORZ"]))
